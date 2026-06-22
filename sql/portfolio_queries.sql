@@ -101,13 +101,3 @@ FROM Transactions t
 JOIN Services s ON t.Service_ID = s.Service_ID
 GROUP BY s.Service_Name, s.Service_Category
 ORDER BY revenue_rank;
-
--- 11. Top Revenue-Generating Services
-SELECT 
-    service_type,
-    COUNT(*) AS total_bookings,
-    SUM(service_price) AS total_revenue,
-    AVG(service_price) AS avg_service_value
-FROM transactions
-GROUP BY service_type
-ORDER BY total_revenue DESC;
