@@ -1,10 +1,22 @@
 # Daffodil Cottage Co. Pet Services Analytics Portfolio
 
+## Live Dashboard
+
+View the interactive Tableau dashboard here:
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/rebecca.scharf/viz/DaffodilCottageFinancialPerformanceDashboard/DaffodilCottageFinancialPerformanceDashboard?publish=yes)
+
 ## Project Overview
 
-This project analyzes a realistic relational dataset for **Daffodil Cottage Co.**, a pet services and dog training business. The goal is to show how SQL and Tableau can turn day-to-day service records into business insights about revenue, profitability, client acquisition, service demand, and growth opportunities.
+This project analyzes Daffodil Cottage Co.'s pet services business using SQL and Tableau, focusing on:
 
-The dataset was designed as a recruiter-facing analytics project and includes related tables for clients, dogs, services, transactions, calendar dates, city zones, and marketing campaigns.
+- Revenue performance by service category
+- Gross profit analysis
+- Customer satisfaction trends
+- Client segmentation
+- Marketing ROI
+- Geographic performance
+- Monthly revenue trends
 
 ## Business Questions
 
