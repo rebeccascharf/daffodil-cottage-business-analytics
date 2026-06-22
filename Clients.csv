@@ -1,0 +1,126 @@
+Client_ID,Client_Name,Signup_Date,Referral_Source,Acquisition_Channel,City_Zone_ID,Household_Type,Preferred_Contact
+C0001,Claire Miller,2025-05-06,Website Blog,Content Marketing,Z001,Multi-Dog,Email
+C0002,Maya Miller,2025-01-17,Client Referral,Referral,Z002,Single Dog,Email
+C0003,Kreg Thomas,2026-01-02,Client Referral,Referral,Z001,Puppy Household,Text
+C0004,Bill Scott,2025-01-04,Local Event,Community,Z005,Multi-Dog,Phone
+C0005,Hannah Walker,2026-01-26,Google Search,Organic Search,Z005,Cat + Dog,Email
+C0006,Megan King,2025-06-26,Instagram,Social,Z002,Puppy Household,Text
+C0007,Sarah Scott,2025-07-13,Repeat Client,Retention,Z002,Single Dog,Phone
+C0008,Chris Parker,2025-12-27,Client Referral,Referral,Z006,Single Dog,Email
+C0009,Nora Thomas,2025-04-30,Repeat Client,Retention,Z005,Single Dog,Text
+C0010,Anastasia Scott,2025-07-01,Google Search,Organic Search,Z006,Multi-Dog,Phone
+C0011,Anastasia Brown,2025-05-06,Client Referral,Referral,Z003,Multi-Dog,Text
+C0012,Rachel Hall,2026-01-29,Website Blog,Content Marketing,Z004,Single Dog,Email
+C0013,Sarah Walker,2025-04-19,Facebook Group,Social,Z007,Puppy Household,Phone
+C0014,Taylor Anderson,2025-11-26,Instagram,Social,Z008,Senior Dog,Email
+C0015,Anastasia Davis,2025-10-03,Website Blog,Content Marketing,Z004,Cat + Dog,Phone
+C0016,Sophie Wright,2025-03-12,Instagram,Social,Z007,Puppy Household,Text
+C0017,Megan Smith,2025-03-23,Google Search,Organic Search,Z002,Senior Dog,Phone
+C0018,Megan King,2025-08-28,Client Referral,Referral,Z007,Puppy Household,Text
+C0019,Daniel Johnson,2025-10-02,Website Blog,Content Marketing,Z002,Cat + Dog,Phone
+C0020,Taylor Miller,2025-08-21,Instagram,Social,Z005,Single Dog,Phone
+C0021,Maya Hall,2025-02-24,Client Referral,Referral,Z003,Cat + Dog,Phone
+C0022,Katie Parker,2026-01-26,Google Search,Organic Search,Z004,Multi-Dog,Phone
+C0023,Katie Johnson,2025-02-27,Client Referral,Referral,Z006,Cat + Dog,Text
+C0024,Bill Smith,2025-02-10,Veterinary Referral,Partner Referral,Z004,Single Dog,Phone
+C0025,Grace Brown,2025-09-01,Google Search,Organic Search,Z003,Puppy Household,Email
+C0026,Anastasia Adams,2025-10-04,Repeat Client,Retention,Z007,Multi-Dog,Phone
+C0027,Chris King,2025-09-22,Instagram,Social,Z006,Senior Dog,Email
+C0028,Bill Thomas,2025-10-29,Facebook Group,Social,Z002,Puppy Household,Email
+C0029,Sophie Thomas,2025-11-20,Google Search,Organic Search,Z001,Single Dog,Email
+C0030,Megan Smith,2025-05-02,Google Search,Organic Search,Z006,Cat + Dog,Phone
+C0031,Grace Anderson,2025-10-20,Website Blog,Content Marketing,Z003,Puppy Household,Text
+C0032,Bill Green,2025-02-19,Facebook Group,Social,Z007,Senior Dog,Text
+C0033,Hannah Wright,2025-01-28,Veterinary Referral,Partner Referral,Z008,Single Dog,Email
+C0034,Rachel Walker,2025-04-08,Facebook Group,Social,Z002,Puppy Household,Text
+C0035,Laura Wright,2025-05-08,Facebook Group,Social,Z003,Single Dog,Text
+C0036,Daniel Miller,2025-10-04,Client Referral,Referral,Z001,Single Dog,Email
+C0037,Bill Wilson,2025-04-20,Client Referral,Referral,Z007,Senior Dog,Email
+C0038,Amy King,2025-05-16,Repeat Client,Retention,Z001,Senior Dog,Text
+C0039,Hannah Baker,2025-06-01,Google Search,Organic Search,Z008,Multi-Dog,Email
+C0040,Sophie Baker,2025-01-30,Website Blog,Content Marketing,Z001,Single Dog,Phone
+C0041,Grace Adams,2025-09-18,Google Search,Organic Search,Z003,Single Dog,Email
+C0042,Megan Parker,2025-05-01,Website Blog,Content Marketing,Z002,Senior Dog,Email
+C0043,Sophie Thomas,2025-08-03,Client Referral,Referral,Z001,Puppy Household,Phone
+C0044,Katie Walker,2026-01-02,Facebook Group,Social,Z005,Cat + Dog,Email
+C0045,Anastasia King,2025-06-03,Website Blog,Content Marketing,Z003,Senior Dog,Text
+C0046,Megan Johnson,2025-10-16,Client Referral,Referral,Z008,Single Dog,Email
+C0047,Daniel Anderson,2025-06-28,Google Search,Organic Search,Z005,Single Dog,Email
+C0048,Morgan Moore,2025-10-06,Instagram,Social,Z003,Cat + Dog,Phone
+C0049,Claire Adams,2025-10-11,Client Referral,Referral,Z001,Cat + Dog,Phone
+C0050,John Davis,2025-02-24,Google Search,Organic Search,Z005,Puppy Household,Email
+C0051,Anastasia Moore,2025-04-15,Website Blog,Content Marketing,Z004,Cat + Dog,Phone
+C0052,Grace Hall,2025-08-05,Google Search,Organic Search,Z001,Cat + Dog,Email
+C0053,Emily Walker,2025-05-15,Client Referral,Referral,Z003,Multi-Dog,Phone
+C0054,Olivia Baker,2025-02-27,Client Referral,Referral,Z007,Single Dog,Phone
+C0055,Laura Baker,2025-10-26,Veterinary Referral,Partner Referral,Z001,Puppy Household,Email
+C0056,Hannah Davis,2026-02-12,Facebook Group,Social,Z001,Single Dog,Text
+C0057,Kreg Thomas,2025-10-14,Instagram,Social,Z002,Senior Dog,Phone
+C0058,Maya Davis,2026-02-14,Veterinary Referral,Partner Referral,Z004,Multi-Dog,Text
+C0059,Emily Wilson,2025-07-30,Local Event,Community,Z006,Multi-Dog,Text
+C0060,Amy Miller,2025-08-29,Veterinary Referral,Partner Referral,Z007,Multi-Dog,Email
+C0061,Olivia Young,2025-04-27,Local Event,Community,Z005,Multi-Dog,Email
+C0062,Nora Anderson,2025-02-05,Facebook Group,Social,Z007,Cat + Dog,Text
+C0063,Claire Adams,2025-10-02,Website Blog,Content Marketing,Z007,Cat + Dog,Email
+C0064,John Hall,2025-05-16,Client Referral,Referral,Z003,Single Dog,Email
+C0065,Emma Wright,2025-06-10,Website Blog,Content Marketing,Z006,Senior Dog,Phone
+C0066,Katie Miller,2025-04-08,Veterinary Referral,Partner Referral,Z007,Cat + Dog,Email
+C0067,Lily Wright,2026-02-17,Client Referral,Referral,Z001,Puppy Household,Phone
+C0068,Maya Anderson,2025-12-07,Instagram,Social,Z006,Cat + Dog,Phone
+C0069,Taylor Miller,2025-12-08,Client Referral,Referral,Z005,Senior Dog,Text
+C0070,Rachel Moore,2025-12-07,Facebook Group,Social,Z003,Senior Dog,Phone
+C0071,Maya Wilson,2026-03-03,Instagram,Social,Z005,Single Dog,Text
+C0072,Chris Anderson,2025-11-07,Local Event,Community,Z007,Cat + Dog,Text
+C0073,Olivia Scott,2026-02-11,Client Referral,Referral,Z004,Multi-Dog,Phone
+C0074,Megan Moore,2026-01-20,Google Search,Organic Search,Z006,Multi-Dog,Phone
+C0075,Chris Thomas,2025-01-24,Google Search,Organic Search,Z004,Multi-Dog,Text
+C0076,Emma Brown,2025-11-19,Instagram,Social,Z008,Puppy Household,Email
+C0077,Lily King,2025-03-17,Instagram,Social,Z008,Single Dog,Email
+C0078,Hannah Thomas,2025-12-23,Local Event,Community,Z003,Puppy Household,Text
+C0079,Sarah Baker,2025-03-04,Repeat Client,Retention,Z004,Senior Dog,Email
+C0080,Olivia Adams,2025-08-15,Repeat Client,Retention,Z006,Puppy Household,Phone
+C0081,Katie Wright,2026-01-16,Veterinary Referral,Partner Referral,Z008,Senior Dog,Text
+C0082,Anastasia Thomas,2025-09-24,Website Blog,Content Marketing,Z005,Senior Dog,Phone
+C0083,Bill Hall,2025-05-27,Google Search,Organic Search,Z008,Multi-Dog,Text
+C0084,Taylor Walker,2025-04-29,Google Search,Organic Search,Z002,Senior Dog,Phone
+C0085,Laura Anderson,2025-06-19,Instagram,Social,Z002,Puppy Household,Text
+C0086,Hannah Smith,2025-07-19,Veterinary Referral,Partner Referral,Z004,Puppy Household,Phone
+C0087,Emily Carter,2025-06-30,Client Referral,Referral,Z007,Cat + Dog,Text
+C0088,Hannah Baker,2025-05-20,Client Referral,Referral,Z004,Senior Dog,Text
+C0089,Emily King,2026-02-13,Client Referral,Referral,Z006,Senior Dog,Phone
+C0090,Amy Scott,2025-10-01,Repeat Client,Retention,Z003,Single Dog,Text
+C0091,Sophie Carter,2025-08-08,Google Search,Organic Search,Z001,Multi-Dog,Text
+C0092,Amy Smith,2025-04-19,Instagram,Social,Z005,Senior Dog,Text
+C0093,Taylor King,2026-03-02,Website Blog,Content Marketing,Z005,Senior Dog,Text
+C0094,Megan Green,2025-01-27,Website Blog,Content Marketing,Z001,Cat + Dog,Email
+C0095,Claire Brown,2025-05-07,Website Blog,Content Marketing,Z001,Multi-Dog,Email
+C0096,Emma Davis,2025-12-09,Google Search,Organic Search,Z004,Single Dog,Phone
+C0097,Kreg Scott,2025-03-27,Website Blog,Content Marketing,Z005,Puppy Household,Phone
+C0098,Maya Miller,2025-02-25,Repeat Client,Retention,Z003,Puppy Household,Email
+C0099,Chris Carter,2026-01-02,Instagram,Social,Z007,Multi-Dog,Email
+C0100,Sophie Thomas,2025-06-04,Website Blog,Content Marketing,Z002,Puppy Household,Email
+C0101,Sophie Smith,2025-12-05,Client Referral,Referral,Z006,Cat + Dog,Email
+C0102,Katie Walker,2026-02-26,Veterinary Referral,Partner Referral,Z001,Senior Dog,Email
+C0103,Hannah Young,2025-08-11,Website Blog,Content Marketing,Z008,Multi-Dog,Phone
+C0104,Katie Hall,2026-02-27,Instagram,Social,Z008,Puppy Household,Text
+C0105,Taylor Thomas,2025-08-19,Facebook Group,Social,Z002,Multi-Dog,Text
+C0106,Sophie Parker,2025-09-11,Facebook Group,Social,Z007,Cat + Dog,Email
+C0107,Grace Anderson,2025-06-24,Local Event,Community,Z006,Cat + Dog,Phone
+C0108,Lily Hall,2025-04-08,Client Referral,Referral,Z001,Single Dog,Email
+C0109,Maya Wright,2025-05-04,Client Referral,Referral,Z008,Senior Dog,Phone
+C0110,Lily Green,2025-02-17,Local Event,Community,Z008,Cat + Dog,Email
+C0111,Rachel Thomas,2025-07-08,Client Referral,Referral,Z005,Senior Dog,Phone
+C0112,Katie Young,2025-10-09,Repeat Client,Retention,Z007,Cat + Dog,Text
+C0113,Lily Scott,2025-04-29,Facebook Group,Social,Z005,Single Dog,Phone
+C0114,Kreg Walker,2026-01-26,Website Blog,Content Marketing,Z002,Multi-Dog,Email
+C0115,Kreg Green,2026-01-25,Website Blog,Content Marketing,Z005,Puppy Household,Phone
+C0116,Chris Miller,2025-07-04,Facebook Group,Social,Z004,Multi-Dog,Text
+C0117,Emily Baker,2025-01-28,Facebook Group,Social,Z003,Puppy Household,Text
+C0118,Lily Davis,2025-01-07,Google Search,Organic Search,Z008,Puppy Household,Text
+C0119,Grace Green,2025-01-27,Facebook Group,Social,Z008,Cat + Dog,Text
+C0120,John Brown,2025-10-23,Client Referral,Referral,Z007,Single Dog,Email
+C0121,Laura Carter,2025-05-08,Google Search,Organic Search,Z005,Single Dog,Phone
+C0122,Hannah Parker,2025-07-14,Local Event,Community,Z004,Senior Dog,Text
+C0123,Chris Carter,2025-11-14,Facebook Group,Social,Z007,Single Dog,Phone
+C0124,Maya Miller,2025-05-16,Client Referral,Referral,Z004,Single Dog,Email
+C0125,Bill Wilson,2025-07-29,Google Search,Organic Search,Z002,Senior Dog,Phone

@@ -1,0 +1,9 @@
+Campaign_ID,Campaign_Name,Referral_Source,Start_Date,End_Date,Campaign_Cost,Campaign_Goal
+M001,Maine Move Awareness,Facebook Group,2025-01-01,2025-03-31,250,Awareness
+M002,Spring Training Push,Google Search,2025-03-01,2025-05-31,420,Lead Generation
+M003,Summer Hiking Services,Instagram,2025-06-01,2025-08-31,375,Seasonal Services
+M004,Blog SEO Content,Website Blog,2025-01-01,2026-05-31,180,Organic Growth
+M005,Local Pet Event Booth,Local Event,2025-09-01,2025-10-31,325,Community
+M006,Holiday Pet Sitting,Facebook Group,2025-11-01,2025-12-31,210,Bookings
+M007,Veterinary Partner Outreach,Veterinary Referral,2025-04-01,2026-05-31,120,Partnerships
+M008,Referral Rewards,Client Referral,2025-01-01,2026-05-31,150,Retention

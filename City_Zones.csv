@@ -1,0 +1,9 @@
+City_Zone_ID,City_Zone,Latitude,Longitude,Market_Type
+Z001,Portland,43.6591,-70.2568,Urban Core
+Z002,Freeport,43.857,-70.1031,Suburban/Rural
+Z003,Brunswick,43.9145,-69.9653,Suburban
+Z004,Yarmouth,43.8006,-70.1867,Suburban
+Z005,Falmouth,43.7295,-70.2419,Suburban
+Z006,Phippsburg,43.8206,-69.8148,Rural/Coastal
+Z007,Cumberland,43.7965,-70.2589,Rural/Suburban
+Z008,Cape Elizabeth,43.5637,-70.2,Coastal

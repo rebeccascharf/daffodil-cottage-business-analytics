@@ -1,0 +1,167 @@
+Dog_ID,Client_ID,Dog_Name,Breed,Dog_Age,Primary_Behavior_Issue,Energy_Level,Spayed_Neutered,Care_Notes
+D0001,C0001,Archie,Beagle,4.2,Dog Reactivity,High,No,Food motivated
+D0002,C0002,Nellie,Cocker Spaniel,12.5,Confidence Building,High,Yes,Sensitive to loud noises
+D0003,C0003,Louis,Golden Retriever,3.3,Leash Pulling,Moderate,Yes,Toy motivated
+D0004,C0004,Willow,Golden Retriever,8.2,,Very High,No,Enjoys enrichment games
+D0005,C0004,Murphy,German Shepherd,4.4,Puppy Basics,Moderate,No,Food motivated
+D0006,C0005,Luna,Golden Retriever,12.1,Confidence Building,High,Yes,Enjoys enrichment games
+D0007,C0006,Nellie,Beagle,7.9,Loose Leash Walking,Very High,No,Crate trained
+D0008,C0006,Bailey,German Shepherd,0.9,Confidence Building,Moderate,No,Toy motivated
+D0009,C0007,Hazel,Australian Shepherd,6.1,Confidence Building,Very High,No,Needs slow introductions
+D0010,C0007,Maple,Rescue Mix,4.6,Leash Pulling,Moderate,No,Needs slow introductions
+D0011,C0007,Rocky,German Shepherd,9.1,Puppy Basics,High,Yes,Needs slow introductions
+D0012,C0008,Luna,Irish Setter Mix,1.9,Confidence Building,Very High,Unknown,Sensitive to loud noises
+D0013,C0009,Bailey,German Shepherd,2.9,Puppy Basics,High,Yes,Toy motivated
+D0014,C0010,Hazel,Golden Retriever,2.1,Dog Reactivity,Very High,Yes,Enjoys enrichment games
+D0015,C0011,Murphy,Border Collie,3.5,Dog Reactivity,High,Yes,Toy motivated
+D0016,C0012,Louis,German Shepherd,12.4,Recall,Low,Unknown,Needs slow introductions
+D0017,C0012,Hazel,Goldendoodle,7.1,Dog Reactivity,High,No,Crate trained
+D0018,C0012,Cedar,Standard Poodle,2.3,Dog Reactivity,High,Yes,Needs slow introductions
+D0019,C0013,Cooper,Beagle,11.6,Puppy Basics,High,Yes,Needs slow introductions
+D0020,C0013,Nellie,German Shepherd,9.9,,High,Yes,Sensitive to loud noises
+D0021,C0014,Willow,Australian Shepherd,4.9,Separation Anxiety,High,Yes,Enjoys enrichment games
+D0022,C0015,Daisy,Rescue Mix,5.4,,Moderate,No,Enjoys enrichment games
+D0023,C0016,Bailey,Standard Poodle,5.4,Household Routine,High,No,Food motivated
+D0024,C0016,Pepper,Beagle,2.1,Loose Leash Walking,Moderate,No,Food motivated
+D0025,C0017,Bailey,Standard Poodle,6.4,Jumping/Manners,Moderate,Yes,Sensitive to loud noises
+D0026,C0018,Lucy,Beagle,3.9,Separation Anxiety,Moderate,No,Enjoys enrichment games
+D0027,C0018,Archie,Cocker Spaniel,11.7,Puppy Basics,Moderate,No,Crate trained
+D0028,C0019,Charlie,Rescue Mix,1.3,Jumping/Manners,Very High,Yes,Sensitive to loud noises
+D0029,C0020,Addie,Rescue Mix,10.4,Jumping/Manners,Low,No,Food motivated
+D0030,C0020,Scout,Border Collie,1.0,Confidence Building,Moderate,Yes,Toy motivated
+D0031,C0020,Addie,Standard Poodle,7.4,Separation Anxiety,High,Yes,Crate trained
+D0032,C0021,Louis,Goldendoodle,8.5,Dog Reactivity,Very High,No,Enjoys enrichment games
+D0033,C0021,Willow,Mixed Breed,3.7,Dog Reactivity,Low,Unknown,Crate trained
+D0034,C0022,Bailey,Border Collie,6.2,Puppy Basics,High,Unknown,Needs slow introductions
+D0035,C0023,Pepper,Goldendoodle,4.4,Household Routine,Very High,No,Crate trained
+D0036,C0024,Nellie,Border Collie,4.3,Jumping/Manners,Low,No,Food motivated
+D0037,C0025,Tucker,Rescue Mix,9.4,Confidence Building,Low,No,Needs slow introductions
+D0038,C0026,Bella,Bernese Mountain Dog,3.4,Confidence Building,Moderate,No,Enjoys enrichment games
+D0039,C0026,Louis,Irish Setter Mix,10.3,Confidence Building,High,Yes,Enjoys enrichment games
+D0040,C0027,Cedar,Standard Poodle,4.4,Puppy Basics,High,Yes,Needs slow introductions
+D0041,C0028,Scout,Cavalier King Charles Spaniel,5.8,Dog Reactivity,High,Unknown,Needs slow introductions
+D0042,C0029,Milo,Rescue Mix,3.8,,Moderate,No,Food motivated
+D0043,C0029,Charlie,Beagle,6.5,Leash Pulling,High,Unknown,Enjoys enrichment games
+D0044,C0030,Lucy,Cocker Spaniel,5.6,,High,No,Food motivated
+D0045,C0031,Cooper,Bernese Mountain Dog,2.0,Puppy Basics,High,No,Enjoys enrichment games
+D0046,C0032,Murphy,Australian Shepherd,1.8,Dog Reactivity,Low,Unknown,Toy motivated
+D0047,C0032,Archie,Mixed Breed,8.9,Jumping/Manners,Moderate,Unknown,Sensitive to loud noises
+D0048,C0033,Pepper,Golden Retriever,1.0,Leash Pulling,Very High,Yes,Crate trained
+D0049,C0034,Murphy,Border Collie,6.3,Jumping/Manners,High,Unknown,Enjoys enrichment games
+D0050,C0035,Tucker,Border Collie,12.0,Jumping/Manners,High,No,Food motivated
+D0051,C0036,Scout,Golden Retriever,3.2,Puppy Basics,Moderate,Unknown,Needs slow introductions
+D0052,C0037,Bella,Golden Retriever,13.2,Puppy Basics,Moderate,No,Food motivated
+D0053,C0038,Daisy,Goldendoodle,8.8,Separation Anxiety,Low,Yes,Crate trained
+D0054,C0039,Charlie,Australian Shepherd,11.3,Separation Anxiety,High,Yes,Crate trained
+D0055,C0040,Cooper,Cocker Spaniel,11.6,Leash Pulling,Moderate,Yes,Food motivated
+D0056,C0041,Charlie,Bernese Mountain Dog,0.7,Leash Pulling,High,No,Food motivated
+D0057,C0042,Cedar,Golden Retriever,1.1,Confidence Building,High,No,Sensitive to loud noises
+D0058,C0043,Tucker,Labrador Retriever,7.1,Leash Pulling,High,Unknown,Enjoys enrichment games
+D0059,C0043,Rocky,German Shepherd,7.2,Recall,Very High,No,Sensitive to loud noises
+D0060,C0044,Lucy,Australian Shepherd,6.8,Loose Leash Walking,Low,Unknown,Toy motivated
+D0061,C0045,Daisy,Border Collie,4.0,Jumping/Manners,High,Unknown,Crate trained
+D0062,C0046,Pepper,Beagle,7.0,Puppy Basics,High,Unknown,Enjoys enrichment games
+D0063,C0047,Charlie,Border Collie,7.6,,Moderate,No,Sensitive to loud noises
+D0064,C0047,Daisy,Irish Setter Mix,5.6,Jumping/Manners,Moderate,No,Needs slow introductions
+D0065,C0048,Lucy,Golden Retriever,9.4,Recall,Low,No,Food motivated
+D0066,C0048,Rocky,Bernese Mountain Dog,10.2,Puppy Basics,Moderate,Unknown,Crate trained
+D0067,C0049,Maple,Beagle,2.0,Puppy Basics,High,Unknown,Food motivated
+D0068,C0050,Bella,Standard Poodle,8.3,Puppy Basics,High,Unknown,Sensitive to loud noises
+D0069,C0050,Scout,Golden Retriever,3.3,Leash Pulling,High,No,Crate trained
+D0070,C0050,Tucker,Bernese Mountain Dog,3.4,Puppy Basics,High,Unknown,Enjoys enrichment games
+D0071,C0051,Luna,Standard Poodle,8.4,Jumping/Manners,High,No,Enjoys enrichment games
+D0072,C0052,Louis,Bernese Mountain Dog,12.5,Puppy Basics,Moderate,Unknown,Sensitive to loud noises
+D0073,C0052,Lucy,Rescue Mix,1.3,Confidence Building,Very High,Unknown,Toy motivated
+D0074,C0053,Daisy,Cocker Spaniel,6.3,Dog Reactivity,Moderate,Unknown,Crate trained
+D0075,C0054,Nellie,Golden Retriever,1.1,Dog Reactivity,High,No,Sensitive to loud noises
+D0076,C0055,Poppy,Golden Retriever,6.8,Puppy Basics,Moderate,No,Sensitive to loud noises
+D0077,C0056,Milo,Labrador Retriever,9.3,Separation Anxiety,High,Yes,Sensitive to loud noises
+D0078,C0057,Louis,Cocker Spaniel,1.1,Dog Reactivity,Very High,No,Needs slow introductions
+D0079,C0057,Addie,Standard Poodle,4.7,Leash Pulling,High,No,Crate trained
+D0080,C0057,Scout,Golden Retriever,9.6,Recall,High,No,Enjoys enrichment games
+D0081,C0058,Winnie,Border Collie,0.6,Loose Leash Walking,Very High,Unknown,Sensitive to loud noises
+D0082,C0059,Daisy,Standard Poodle,5.9,Leash Pulling,Low,Unknown,Sensitive to loud noises
+D0083,C0060,Charlie,Border Collie,12.4,Leash Pulling,High,Unknown,Sensitive to loud noises
+D0084,C0060,Daisy,Goldendoodle,7.3,Puppy Basics,Moderate,No,Toy motivated
+D0085,C0061,Scout,Australian Shepherd,8.7,Recall,Moderate,Unknown,Enjoys enrichment games
+D0086,C0062,Tucker,Standard Poodle,3.5,Leash Pulling,Moderate,Unknown,Food motivated
+D0087,C0062,Winnie,Cocker Spaniel,2.7,Confidence Building,Moderate,Unknown,Sensitive to loud noises
+D0088,C0063,Daisy,Beagle,12.0,Jumping/Manners,Very High,Unknown,Needs slow introductions
+D0089,C0064,Cooper,Bernese Mountain Dog,1.3,Puppy Basics,Moderate,Yes,Needs slow introductions
+D0090,C0065,Milo,Golden Retriever,4.5,Recall,Low,Unknown,Food motivated
+D0091,C0066,Cedar,Labrador Retriever,7.0,Recall,High,No,Crate trained
+D0092,C0067,Rocky,German Shepherd,4.6,Recall,Moderate,Yes,Needs slow introductions
+D0093,C0068,Archie,German Shepherd,1.5,Jumping/Manners,Low,No,Crate trained
+D0094,C0068,Milo,Border Collie,7.2,Dog Reactivity,Moderate,No,Needs slow introductions
+D0095,C0068,Daisy,Golden Retriever,9.3,Leash Pulling,High,No,Food motivated
+D0096,C0069,Tucker,Beagle,5.5,Dog Reactivity,Very High,Yes,Needs slow introductions
+D0097,C0070,Bailey,Rescue Mix,9.1,Loose Leash Walking,Moderate,Unknown,Sensitive to loud noises
+D0098,C0071,Bailey,Cocker Spaniel,9.7,Leash Pulling,High,No,Toy motivated
+D0099,C0072,Poppy,Golden Retriever,11.3,Confidence Building,High,Unknown,Enjoys enrichment games
+D0100,C0073,Bella,Australian Shepherd,5.1,Puppy Basics,Moderate,No,Toy motivated
+D0101,C0074,Pepper,Cavalier King Charles Spaniel,2.2,Leash Pulling,High,Unknown,Enjoys enrichment games
+D0102,C0075,Louis,Bernese Mountain Dog,0.9,Puppy Basics,High,No,Toy motivated
+D0103,C0075,Addie,Rescue Mix,2.5,,High,No,Food motivated
+D0104,C0076,Milo,Cocker Spaniel,9.3,Dog Reactivity,Moderate,Unknown,Sensitive to loud noises
+D0105,C0077,Bella,Australian Shepherd,3.5,Loose Leash Walking,High,Unknown,Crate trained
+D0106,C0078,Poppy,Border Collie,6.4,Dog Reactivity,Moderate,Yes,Toy motivated
+D0107,C0078,Bailey,German Shepherd,10.9,Leash Pulling,Moderate,No,Crate trained
+D0108,C0078,Pepper,Mixed Breed,12.6,Jumping/Manners,High,Yes,Toy motivated
+D0109,C0079,Charlie,Beagle,12.3,Leash Pulling,Moderate,No,Needs slow introductions
+D0110,C0080,Finn,Golden Retriever,5.8,Puppy Basics,Moderate,No,Toy motivated
+D0111,C0080,Bailey,Australian Shepherd,0.8,Loose Leash Walking,High,Yes,Toy motivated
+D0112,C0081,Archie,German Shepherd,12.4,Recall,High,No,Crate trained
+D0113,C0082,Murphy,Rescue Mix,1.4,Dog Reactivity,High,Unknown,Crate trained
+D0114,C0083,Charlie,Border Collie,10.6,Dog Reactivity,Moderate,Unknown,Crate trained
+D0115,C0084,Luna,Irish Setter Mix,1.9,Loose Leash Walking,High,Unknown,Crate trained
+D0116,C0085,Charlie,Bernese Mountain Dog,2.3,Puppy Basics,High,No,Toy motivated
+D0117,C0086,Poppy,Cavalier King Charles Spaniel,1.5,Household Routine,Low,Unknown,Crate trained
+D0118,C0087,Scout,Mixed Breed,5.5,Recall,High,Unknown,Food motivated
+D0119,C0088,Pepper,Cocker Spaniel,1.3,Dog Reactivity,High,Unknown,Enjoys enrichment games
+D0120,C0089,Bailey,Standard Poodle,2.1,Puppy Basics,Moderate,Unknown,Sensitive to loud noises
+D0121,C0090,Archie,Cocker Spaniel,6.7,Dog Reactivity,Moderate,No,Food motivated
+D0122,C0090,Rocky,Australian Shepherd,4.2,Leash Pulling,Moderate,No,Crate trained
+D0123,C0090,Rocky,Cocker Spaniel,5.6,Confidence Building,Moderate,Unknown,Toy motivated
+D0124,C0091,Cooper,Golden Retriever,11.7,Leash Pulling,High,No,Sensitive to loud noises
+D0125,C0092,Addie,German Shepherd,10.1,,Moderate,Unknown,Sensitive to loud noises
+D0126,C0092,Lucy,Rescue Mix,5.2,Confidence Building,Moderate,No,Food motivated
+D0127,C0093,Pepper,Golden Retriever,13.4,Dog Reactivity,Moderate,No,Enjoys enrichment games
+D0128,C0094,Willow,Australian Shepherd,6.2,Jumping/Manners,Moderate,No,Food motivated
+D0129,C0095,Bailey,Cocker Spaniel,12.3,Separation Anxiety,Moderate,Yes,Food motivated
+D0130,C0096,Addie,Labrador Retriever,5.7,Recall,High,Yes,Crate trained
+D0131,C0097,Bailey,Australian Shepherd,6.1,Leash Pulling,Moderate,No,Sensitive to loud noises
+D0132,C0098,Scout,Australian Shepherd,0.8,Dog Reactivity,Moderate,No,Food motivated
+D0133,C0098,Bailey,Mixed Breed,7.9,Recall,Moderate,Yes,Food motivated
+D0134,C0099,Pepper,Mixed Breed,2.8,Recall,Very High,No,Enjoys enrichment games
+D0135,C0100,Hazel,Goldendoodle,13.5,Dog Reactivity,Very High,Yes,Toy motivated
+D0136,C0101,Lucy,Cocker Spaniel,6.3,,Moderate,Unknown,Needs slow introductions
+D0137,C0101,Milo,Mixed Breed,9.1,Jumping/Manners,High,Yes,Enjoys enrichment games
+D0138,C0102,Charlie,Golden Retriever,9.6,Dog Reactivity,Moderate,Yes,Toy motivated
+D0139,C0103,Willow,Cocker Spaniel,6.9,Puppy Basics,High,Unknown,Toy motivated
+D0140,C0104,Cedar,German Shepherd,1.5,Puppy Basics,Very High,Unknown,Sensitive to loud noises
+D0141,C0105,Bailey,Golden Retriever,11.2,Leash Pulling,Very High,No,Sensitive to loud noises
+D0142,C0105,Murphy,Irish Setter Mix,9.3,Puppy Basics,Very High,Unknown,Toy motivated
+D0143,C0106,Pepper,Cavalier King Charles Spaniel,2.1,Recall,Very High,Yes,Needs slow introductions
+D0144,C0106,Scout,Cavalier King Charles Spaniel,2.6,Puppy Basics,High,No,Food motivated
+D0145,C0107,Milo,Bernese Mountain Dog,8.7,Separation Anxiety,Moderate,Unknown,Food motivated
+D0146,C0108,Nellie,Bernese Mountain Dog,2.6,Loose Leash Walking,Moderate,Unknown,Crate trained
+D0147,C0109,Lucy,Labrador Retriever,12.5,Leash Pulling,Very High,Unknown,Crate trained
+D0148,C0110,Luna,German Shepherd,3.2,Separation Anxiety,High,Unknown,Crate trained
+D0149,C0111,Nellie,Border Collie,12.9,Recall,High,No,Sensitive to loud noises
+D0150,C0112,Bella,Australian Shepherd,1.2,Puppy Basics,Moderate,Unknown,Toy motivated
+D0151,C0113,Finn,Standard Poodle,9.8,Confidence Building,Very High,No,Crate trained
+D0152,C0114,Charlie,Standard Poodle,4.6,Recall,Moderate,Yes,Food motivated
+D0153,C0115,Addie,Beagle,5.4,Separation Anxiety,Moderate,No,Crate trained
+D0154,C0116,Willow,German Shepherd,2.9,Dog Reactivity,Very High,No,Sensitive to loud noises
+D0155,C0117,Bella,Bernese Mountain Dog,12.8,Recall,Very High,No,Food motivated
+D0156,C0118,Hazel,Mixed Breed,6.9,,High,Unknown,Food motivated
+D0157,C0119,Finn,Australian Shepherd,6.0,,High,Yes,Sensitive to loud noises
+D0158,C0119,Milo,Golden Retriever,1.1,Separation Anxiety,Moderate,No,Crate trained
+D0159,C0120,Tucker,Golden Retriever,7.6,,High,Yes,Food motivated
+D0160,C0121,Louis,Goldendoodle,10.8,Puppy Basics,Very High,Unknown,Crate trained
+D0161,C0122,Hazel,Cavalier King Charles Spaniel,0.9,Leash Pulling,High,No,Toy motivated
+D0162,C0123,Addie,Border Collie,7.2,Puppy Basics,High,Unknown,Enjoys enrichment games
+D0163,C0124,Hazel,Rescue Mix,8.2,Recall,High,Unknown,Needs slow introductions
+D0164,C0124,Pepper,Border Collie,6.6,Leash Pulling,Moderate,Unknown,Needs slow introductions
+D0165,C0125,Hazel,Mixed Breed,9.9,Jumping/Manners,Low,Unknown,Crate trained
+D0166,C0125,Addie,Cavalier King Charles Spaniel,8.0,Jumping/Manners,High,Unknown,Enjoys enrichment games

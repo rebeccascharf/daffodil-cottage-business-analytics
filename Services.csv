@@ -1,0 +1,16 @@
+Service_ID,Service_Name,Service_Category,Session_Length_Min,Standard_Rate,Estimated_Service_Cost,Package_Sessions
+S001,Private Training,Training,60,125.0,35,1
+S002,Beginner Training Package,Training,60,356.25,90,3
+S003,Intermediate Training Package,Training,60,675.0,180,6
+S004,Dog Walk - 30 Min,Walking,30,30.0,8,1
+S005,Dog Walk - 45 Min,Walking,45,45.0,12,1
+S006,Dog Walk - 60 Min,Walking,60,60.0,16,1
+S007,Hike - 30 Min,Hiking,30,45.0,12,1
+S008,Hike - 60 Min,Hiking,60,85.0,22,1
+S009,Hike - 90 Min,Hiking,90,105.0,28,1
+S010,Drop-In Visit - 20 Min,Drop-In,20,20.0,5,1
+S011,Drop-In Visit - 30 Min,Drop-In,30,30.0,7,1
+S012,Drop-In Visit - 60 Min,Drop-In,60,60.0,14,1
+S013,Overnight Pet Sitting,Pet Sitting,720,125.0,38,1
+S014,Daycare,Daycare,360,65.0,20,1
+S015,Bath & Light Grooming Add-On,Add-On,30,30.0,6,1
